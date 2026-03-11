@@ -1,4 +1,5 @@
 Smart Fitness Tracker Data Analysis (EDA Project)
+
 📌 Project Overview
 This project analyzes smart fitness tracker data (Strava/Fitbit-style) to understand user behavior patterns related to activity, sleep, calories, and BMI. The goal is to generate actionable insights that can help improve marketing strategies, user engagement, and product positioning.
 The analysis focuses on daily-level data and follows industry-standard data cleaning, merging, and exploratory data analysis (EDA) practices.
